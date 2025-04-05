@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BringMeHome](https://github.com/minniedd/bring_me_home)
 
-- 🌱 I’m currently learning **Mastering Flutter and .NET Frameworks**
+- 🌱 I’m currently **Mastering Flutter and .NET Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://desktop-portfolio-7626.vercel.app/](https://desktop-portfolio-7626.vercel.app/)
 
