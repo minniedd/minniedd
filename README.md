@@ -1,6 +1,4 @@
 <div align="center">
-<img width="736" height="710" alt="image" src="https://github.com/user-attachments/assets/66a34fa6-d0c5-4e72-a8a1-c81fc1457d9e" />
-
 # Hi there, I'm Amina
 
 ### *Software Engineer*
