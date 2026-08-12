@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Amina Bardak</h1>
-<h3 align="center">Software Engineer from Bosnia</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [BringMeHome](https://github.com/minniedd/bring_me_home)
+# Hi there, I'm Amina
 
-- 🌱 I’m currently **Mastering Flutter and .NET Frameworks**
+### *Software Engineer*
 
-- 👨‍💻 All of my projects are available at [https://desktop-portfolio-7626.vercel.app/](https://desktop-portfolio-7626.vercel.app/)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/amina-bardak-6b073b2a3/)
+[![Email](https://shields.io)](mailto:bardakamina7@gmail.com)
 
-- 📫 How to reach me **amina.bardak@edu.fit.ba**
+<hr style="border: 1px solid #f472b6;">
 
-- 📄 Know about my experiences [https://desktop-portfolio-7626.vercel.app/](https://desktop-portfolio-7626.vercel.app/)
+</div>
 
-- ⚡ Fun fact **I love drawing, listening to music, and watching movies and tv shows**
+## 🧬 Professional Profile
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amina-bardak-6b073b2a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amina-bardak-6b073b2a3/" height="30" width="40" /></a>
-</p>
+I am a Software Engineering graduate with a passion for building end-to-end solutions, from web dashboards and mobile apps to hardware-integrated IoT systems. Experienced across full-stack development and machine learning, utilizing Python, .NET, JavaScript, and Flutter. Dedicated to writing clean, functional code that solves real-world problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+* **Core Focus:** Internet Things, Embedded Systems engineering, Full-stack development.
+* **Current Pursuit:** Embedded Systems and Electrical Engineering
+
+## 🛠️ Technical Ecosystem
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#fff5f7', 'edgeLabelBackground':'#f472b6', 'tertiaryColor': '#fff'}}}%%
+graph TD
+    A[Frontend] --> B(Flutter / Angular)
+    A --> C(TypeScript)
+    D[Backend] --> E(.NET / C / C++)
+    D --> F(SQL Server)
+    G[DevOps] --> H(Docker)
+```
+
+<br>
 
